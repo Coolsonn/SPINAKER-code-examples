@@ -9,7 +9,7 @@ Neccessary python libraries need to be installed via terminal:
 <br>`pip install openai, dotenv-python`
 
 To run the file successfuly, it is also required to create `.env` file in the same folder as the desired python script.
-The `.env` file should contain the following line: `OPENAI_KEY:<your_openai_api_key>`
+The `.env` file should contain the following line: <br>`OPENAI_KEY:<your_openai_api_key>`
 
 
 When python is already installed. Running the scripts is possible in Terminal with the following command:
